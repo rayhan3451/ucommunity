@@ -6,7 +6,7 @@ import {MenuAlt2Icon} from "@heroicons/react/outline"
 function index() {
  return (
   <div>
-   I am Navbar
+   <MenuAlt2Icon/>
   </div>
  )
 }
